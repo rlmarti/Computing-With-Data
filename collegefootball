@@ -1,0 +1,82 @@
+<html>                                                                                                                                                            
+<body>                                                                                                                                                                                                                                                                                                            
+	<h4> This tables shows the top 10 college football teams with the most national championships.</h4>                                                                                                                                                                                                                                                                                                             
+	<table>                                                                                                                                                         
+		<tr>
+    
+      <td> Position</td>                                                                                                                                                
+			<td> Team Name</td>                                                                                                                                                  
+			<td> Number of National Championships</td>                                                                                                                                                   
+		</tr>                                                                                                                                                            
+		<tr> 
+    
+     	<td> 1</td>                                                                                                                                                   
+			<td> Yale</td>                                                                                                                                                      
+			<td> 18</td> 
+      
+		</tr>                                                                                                                                                           
+		<tr> 
+    
+			<td> 2</td>                                                                                                                                                  
+			<td> Alabama</td>                                                                                                                                                    
+			<td> 15</td> 
+      
+		</tr>                                                                                                                                                            
+		<tr> 
+    
+			<td> 3</td>                                                                                                                                                  
+			<td> Princeton</td>                                                                                                                                                   
+			<td> 15</td>  
+      
+		</tr>                                                                                                                                                           
+		<tr>
+    
+			<td> 4</td>                                                                                                                                                
+			<td> Notre Dame</td>                                                                                                                                                    
+			<td> 13</td>  
+      
+		</tr>                                                                                                                                                           
+		<tr> 
+    
+			<td> 5</td>                                                                                                                                                 
+			<td> Michigan</td>                                                                                                                                                    
+			<td> 9</td> 
+      
+    </tr> 
+    <tr> 
+    
+     	<td> 6</td>                                                                                                                                                   
+			<td> Harvard</td>                                                                                                                                                      
+			<td> 8</td>  
+      
+		</tr>                                                                                                                                                           
+		<tr> 
+    
+			<td> 7</td>                                                                                                                                                  
+			<td> Ohio State</td>                                                                                                                                                    
+			<td> 8</td> 
+      
+		</tr>                                                                                                                                                            
+		<tr> 
+    
+			<td> 8</td>                                                                                                                                                  
+			<td> Southern California</td>                                                                                                                                                   
+			<td> 8</td>   
+      
+		</tr>                                                                                                                                                           
+		<tr>
+    
+			<td> 9</td>                                                                                                                                                
+			<td> Oklahoma</td>                                                                                                                                                    
+			<td> 7</td>   
+      
+		</tr>                                                                                                                                                           
+		<tr> 
+    
+			<td> 10</td>                                                                                                                                                 
+			<td> Minnesota</td>                                                                                                                                                    
+			<td> 6</td> 
+    </tr>
+	</table>                                                                                                                                                                                                                                                                                                                         
+</body>                                                                                                                                                          
+</html>
